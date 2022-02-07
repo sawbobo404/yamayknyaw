@@ -1,3 +1,55 @@
-<h3>My Profile</h3>
-<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dignissimos debitis vero rerum eum minus unde blanditiis, eaque ex porro nisi, tempora similique voluptas placeat voluptatem odio fugit sed rem qui?</p>
-<input type="text">
+###ကညီလံာ်ခီၣ်ထံး
+
+<h3>လံာ်ဖျၢၣ်မိၢ်ပှၢ်(၂၅)ဖျၢၣ် (ဗျည်း)</h3>
+<p>
+က	- ကးခီၣ်ထံး 
+
+ခ	- ခးကဝီၤ
+
+ဂ	- ဂးကျၢၢ်လီၤ
+
+ဃ	- ဃးဒိၣ်
+
+င	- ငးဒူၣ်ချၢ 
+
+စ	- စးဖျၢၣ်
+
+ဆ	- ဆးဘံ
+
+ရှ	- ရှးခွ့မဲၢ်
+
+ည	- ညးညိၣ်ခီၣ်
+
+တ	- တးဝၢ်စု
+
+ထ	- ထးသဃံာ် 
+
+ဒ	- ဒးသဒါ
+
+န	- နးဆံး
+
+ပ	- ပးတခီ
+
+ဖ	- ဖးပဝံာ် 
+
+ဘ	- ဘးတကူး
+
+မ	- မးဒွံးသး
+
+ယ	- ယးအီထီ
+
+ရ	- ရးက့ၣ်
+
+လ	- လးက့ၣ်ထီၣ်
+
+ဝ	- ဝးကဝီၤ 
+
+သ	- သးဒီၣ်ဃီၤ
+
+ဟ	- ဟးက့ၣ်လီၤ 
+
+အ	- အးခံဆီ
+
+ဧ	- ဧးကတၢၢ်
+</p>
+
